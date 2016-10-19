@@ -1,4 +1,4 @@
-# **GranulO**    ![gplv3-88x31.png](https://bitbucket.org/repo/oM4rjA/images/2629282821-gplv3-88x31.png)
+# **GranulO**    ![logo](https://www.gnu.org/graphics/gplv3-88x31.png)
 
 GranulO is an application for the fuzzy granulation of some schemas in OWL ontologies.
 
