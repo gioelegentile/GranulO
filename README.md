@@ -116,6 +116,10 @@ The content of the `config.json` file is the following:
 ```
 You can run GranulO on OWL schemas which represent binary or ternary relations. If you want to test GranulO on a ternary relation, you simply have to fill the blank parameters. Otherwise, the process will be executed by considering the relation as binary. There are no other possible configurations.
 
+## Test ontology ##
+
+Hotel.owl is an ontology used for testing the information granulation method. The result is save in gHotel.owl
+
 ## **Notes** ##
 
 - The python application only accept ontologies in OWL/XML syntax. Jena needs ontologies in RDF/XML syntax instead. So you will need two versions of the same ontology.
